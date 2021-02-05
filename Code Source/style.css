@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700&display=swap');
+
+:root {
+
+    --animate-speed: 2s;
+   }
+
+   /* Page imgs */
+#page-1 { background:url() }
+#page-2 { background: var(--page-2-color) }
+#page-3 { background: var(--page-3-color) }
+#page-4 { background: var(--page-4-color) }
+
+body{
+
+    line-height: 1.4;
+    color: #fff;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+.h1{
+    font-family: 'Playfair Display', serif;
+}
